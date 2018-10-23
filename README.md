@@ -16,8 +16,7 @@
 
 ### Running the app
  
-Once requirements are installed set main file for flask by running 
-```export FLASK_APP=microblog.py``` (Linux) or ```set FLASK_APP=microblog.py```(Windows)
-to make this persistant run ```pip install python-dotenv```
-then edit the .flaskenv by running ```nano .flaskenv``` and save this line in the file ```FLASK_APP=microblog.py```
-To run application in Local Host run ```flask run```
+- Once requirements are installed set main file for flask by running ```export FLASK_APP=microblog.py``` (Linux) or ```set FLASK_APP=microblog.py```(Windows)
+- to make this persistant run ```pip install python-dotenv```
+- then edit the .flaskenv by running ```nano .flaskenv``` and save this line in the file ```FLASK_APP=microblog.py```
+- To run application in Local Host run ```flask run```
