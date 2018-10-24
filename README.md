@@ -8,7 +8,7 @@
 
 
 ### Installing the app
-- run: ```git clone https://github.com/rmit-s3588941-amanda-argyros/parking-api.git``` in command prompt.
+- run: ```git clone https://github.com/rmit-s3588941-amanda-argyros/microblog.git``` in command prompt.
 - CD into project folder.
 - Setup a venv in the working directory by running ```python3 -m venv venv``` a new venv instance will be setup. 
 - Activate the virtual environment by running source ```venv/bin/activate``` (Linux) ```venv\scripts\activiate``` (Windows)
